@@ -50,7 +50,13 @@
         "hero",
         "cards",
         "columns",
+<<<<<<< HEAD
         "fragment"
+=======
+        "fragment",
+        "form",
+        "embed-adaptive-form"
+>>>>>>> 9305270 (Initial commit)
       ]
     }
   ]
